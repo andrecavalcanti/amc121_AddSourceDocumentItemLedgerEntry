@@ -1,0 +1,27 @@
+{
+  "id": "7600e73c-dba3-4141-9fc3-a1b9d3b6fe71",
+  "name": "DXC Add Source Document to Item Ledger Entry",
+  "publisher": "DXC",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "target": "Internal",
+  "showMyCode": true,
+  "breakonerror" : true,
+  "runtime": "1.0"
+}
